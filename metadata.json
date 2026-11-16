@@ -1,0 +1,6 @@
+{
+  "name": "Mayaban Village Resort",
+  "description": "A Serene Get Away in the Heart of Bankura. Luxury eco-cottages, deluxe rooms, authentic Bengali dining, and banquet celebrations at Bikna Station Road, Bankura, West Bengal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

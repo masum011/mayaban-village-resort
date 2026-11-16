@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Offline | Mayaban Village Resort, Bankura</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, sans-serif;
+        background: #F6F1E7;
+        color: #1F3D2B;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+        text-align: center;
+      }
+      .card {
+        max-width: 440px;
+        background: #FAF7F0;
+        border: 1px solid rgba(31, 61, 43, 0.14);
+        border-radius: 16px;
+        padding: 32px;
+      }
+      h1 { font-family: Georgia, serif; margin: 0 0 12px; font-size: 28px; }
+      p { color: #57534E; font-size: 14px; line-height: 1.6; margin: 0 0 20px; }
+      a, button {
+        display: inline-block;
+        padding: 12px 22px;
+        border-radius: 999px;
+        background: #1F3D2B;
+        color: #F6F1E7;
+        text-decoration: none;
+        font-size: 13px;
+        font-weight: 600;
+        border: none;
+        cursor: pointer;
+        margin: 4px;
+      }
+      .alt { background: transparent; color: #1F3D2B; border: 1px solid #C9A227; }
+    </style>
+  </head>
+  <body>
+    <main class="card">
+      <h1>You Are Currently Offline</h1>
+      <p>
+        Please reconnect to browse live gallery photos and forms at Mayaban Village Resort,
+        Bikna Station Road, Mobarakpur, Bankura.
+      </p>
+      <button type="button" onclick="window.location.reload()">Try Again</button>
+      <a class="alt" href="tel:+919883220490">Call +91 9883220490</a>
+    </main>
+  </body>
+</html>

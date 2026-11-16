@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Mayaban Village Resort",
+  "short_name": "Mayaban",
+  "description": "A Serene Get Away in the Heart of Bankura. Heritage cottages, deluxe rooms, Bengali dining, and banquet celebrations at Bikna Station Road, Bankura.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#1F3D2B",
+  "background_color": "#F6F1E7",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "bankura-hills": {
+    "width": 1200,
+    "height": 896,
+    "widths": [
+      480,
+      768
+    ],
+    "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoUAA8APt1apkyopSOiMAgBEBuJQBOl4AAnRozqW3sN87QA/HGtxwzsWuvncw1Le3DSQLIpSyuOqnd40S7nuHW6tK9Ub8c6K83xenYsoTZ+AA=="
+  },
+  "banquet": {
+    "width": 1376,
+    "height": 768,
+    "widths": [
+      480,
+      768,
+      1280
+    ],
+    "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQBACdASoUAAsAPt1apkyopSOiMAgBEBuJYgCdMoR4Lf/gNfLZ4gc7/s5kAP68fCAbJbARcBCWkmtgKV6vWAmJ1Maw91GPxwbfy++ikFd+14kykEk5bwl7CaJ2yAAA"
+  },
+  "cottage": {
+    "width": 1200,
+    "height": 896,
+    "widths": [
+      480,
+      768
+    ],
+    "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoUAA8APt1cpkyopSOiMAgBEBuJQBOmUABfZQGB1MjuxrUwAP7pWKc7VAaBD+lvhhVXb6uGe+7GE0i8GZHU9fRTqNseWZkGfGkrbysPYta4BRcb8uBIYAAA"
+  },
+  "courtyard-drive": {
+    "width": 1360,
+    "height": 1020,
+    "widths": [
+      480,
+      768,
+      1280
+    ],
+    "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASoUAA8APt1cpkyopSOiMAgBEBuJQBOmUGXSiTjG1axOhm79AAD8jI60dPpXF13vX0d0se+hicqOFt5KSLMwhfAVpK9Tk2Ej9wKFnOPDobOOV3l5hwAVzgAA"
+  },
+  "deluxe-double": {
+    "width": 1200,
+    "height": 896,
+    "widths": [
+      480,
+      768
+    ],
+    "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoUAA8APt1apkyopSOiMAgBEBuJYwCw7CLHdXE1rXv1ksrIAPfULOSTWHNk030kXJc8tg7BDIyBIrvnw5SNB8WocAZfWvb9JQL0+cgigjs5SefbCAA="
+  },
+  "deluxe-single": {
+    "width": 1200,
+    "height": 896,
+    "widths": [
+      480,
+      768
+    ],
+    "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoUAA8APt1apkyopSOiMAgBEBuJQBadAo3stMuSQS3D9UAA8qQHb4zQbhadR4ueu1Aw3RTpQVgquliY9FA+riCpeW0/hsp22sfkyl5t5mxoAA=="
+  },
+  "deluxe-triple": {
+    "width": 1200,
+    "height": 896,
+    "widths": [
+      480,
+      768
+    ],
+    "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASoUAA8APt1apkyopSOiMAgBEBuJQBOmUABwC13zotPRLnLp5AD9m+Tb+4vTBW4FNgQIg05sFKSjpB8Tf9fk+1ocgZs/Wf8b2/YAAA=="
+  },
+  "entrance-gate": {
+    "width": 1360,
+    "height": 765,
+    "widths": [
+      480,
+      768,
+      1280
+    ],
+    "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoUAAsAPt1cp0yopSOiMAgBEBuJYwCsMoAB3liVtKPPyJjgAPuEwmX3AfmsYIMHQdBoEGfwvyUDbgJXLCbDQXmO1uRERKzvBjX/pOAA"
+  },
+  "exterior": {
+    "width": 1360,
+    "height": 1020,
+    "widths": [
+      480,
+      768,
+      1280
+    ],
+    "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwBACdASoUAA8APt1cpkyopSOiMAgBEBuJYgCdIExC/xeetyZjccWHU4AA/tNsK6r6fJ9Mbn2qm+WuEMpQql/MP10vOo39jJiA/6g50JEQu3qAAAA="
+  },
+  "festive-evening": {
+    "width": 1080,
+    "height": 1080,
+    "widths": [
+      480,
+      768
+    ],
+    "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACwBACdASoUABQAPtVYo0yoJSMiN/VYAQAaiWgAsR8vwXtfav8F6dhu25sXbuwAAP5IvVHr2qpIalvKKpTAmNM4cNBaxKG7Mok9HLL68N7xjqxDRZX3fvc49HuVw7raZpvWZ++f0UrBQzeNN9no0dogzvdiJr5MkMN0CQwAx4dIRddSquZAAA=="
+  },
+  "hero": {
+    "width": 1376,
+    "height": 768,
+    "widths": [
+      480,
+      768,
+      1280
+    ],
+    "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAwCdASoUAAsAPt1cp00opSOiMAgBEBuJQBOmUABv7FFVkWpsGcb0AP7l1eFPlDNDRceSrtYwtpkRfpIOhREAvh57ElsHx2NLcav3kt5AAA=="
+  },
+  "night-cottages": {
+    "width": 1360,
+    "height": 1020,
+    "widths": [
+      480,
+      768,
+      1280
+    ],
+    "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABQBACdASoUAA8APt1cp0yopSOiMAgBEBuJYwDKIExDA1Io7q3qMorFxmT4AP7ypQbg2spwhjCRPzPMlR91AEIhGeVnyw+ldOCwAgr9rNKAAA=="
+  },
+  "resort-facade": {
+    "width": 1360,
+    "height": 765,
+    "widths": [
+      480,
+      768,
+      1280
+    ],
+    "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACQAwCdASoUAAsAPt1cpkyopSOiMAgBEBuJQBOgBDrrP9OURPQAAP7qfHmyXI5NKHLDtprrz+cG1Fbt8MG37pgYqX3O519P0/tb7WNgAAA="
+  },
+  "restaurant": {
+    "width": 1360,
+    "height": 907,
+    "widths": [
+      480,
+      768,
+      1280
+    ],
+    "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQBACdASoUAA0APt1cpkyopSOiMAgBEBuJagCdH8ADL7cKsndVGffkEzAsAP499Dk5vDU+YD45cqI5udrg/jbDuFMgZiuXtJoHtVLcixLRBWE5RO/YfZxk0TpYAA=="
+  },
+  "twilight-wing": {
+    "width": 1360,
+    "height": 765,
+    "widths": [
+      480,
+      768,
+      1280
+    ],
+    "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAwCdASoUAAsAPt1cp0yopSOiMAgBEBuJZQDKABgtkUQ8xhGHwIAA/vNQq5ALtz3nUTt6rONqF7DPa6UaGPUSMZsgJT9CnZAAAA=="
+  }
+}
